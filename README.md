@@ -1,29 +1,27 @@
-# Your Portfolio
+<div align=center>
+  <a href="#about"><img height="40px" alt="About Badge" src="https://img.shields.io/badge/About-00acee?style=for-the-badge&logo=%F0%9F%91%8B&logoColor=white&color=000000"></a>
+  <a href="#tech_stack"><img height="40px" alt="Tech Stack Badge" src="https://img.shields.io/badge/Tech_Stack-00acee?style=for-the-badge&logo=%F0%9F%91%8B&logoColor=white&color=000000"></a>
+  <a href="#projects"><img height="40px" alt="Projects Badge" src="https://img.shields.io/badge/Projects-00acee?style=for-the-badge&logo=%F0%9F%91%8B&logoColor=white&color=000000"></a>
+  <a href="#currently_learning"><img height="40px" alt="Currently Learning Badge" src="https://img.shields.io/badge/Currently_Learning-00acee?style=for-the-badge&logo=%F0%9F%91%8B&logoColor=white&color=000000"></a>
+  <a href="#contact"><img height="40px" alt="Contact Badge" src="https://img.shields.io/badge/Contact-00acee?style=for-the-badge&logo=%F0%9F%91%8B&logoColor=white&color=000000"></a>
+</div>
+<br><br>
 
-## Navigation
-- [About](#about)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
+![Banner Image](Mohammad-Hirani-Banner.png)
 
-## About
-Write a brief introduction about yourself here.
+# 👋 About
 
-## Projects
-### Project 1
-- Project description
-- [GitHub Repository](https://github.com/yourusername/project1)
-- [Live Demo](https://yourprojectdemo.com)
+Hello, I'm Mohammad Hirani 👋
 
-### Project 2
-- Project description
-- [GitHub Repository](https://github.com/yourusername/project2)
-- [Live Demo](https://yourprojectdemo.com)
+I'm a passionate web developer with expertise in both frontend and backend technologies. I love crafting beautiful and functional web applications. Here's a little about what I do:
 
-## Skills
-List your skills here, both frontend and backend.
+- 💼 I'm proficient in HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Vue.js, and Next.js for frontend development.
+- ⚙️ On the backend, I work with PHP, Laravel, and WordPress to create robust and scalable applications.
+<br><br>
 
-## Contact
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+# 🚀 My Tech Stack
+
+- 💻 **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Vue.js, Next.js
+- 🌐 **Backend**: PHP, Laravel, WordPress
+- 🗄️ **Databases**: MySQL
+
